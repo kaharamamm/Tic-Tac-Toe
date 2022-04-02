@@ -1,3 +1,5 @@
 # Tic-Tac-Toe
-Just trying some stuff to learn the basics &amp; algorithms behind.
-It can get improved by playing with the CSS and cleaning the code.
+X-O-X game ( but X is a square :P )
+It can get improved by:
+- Improving visuals with CSS+HTML,
+- Cleaning the code.
